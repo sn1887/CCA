@@ -7,7 +7,7 @@ Cardiovascular disease (CVD) stands as the leading cause of mortality globally, 
 In recent years, carotid atherosclerosis has garnered significant attention among researchers due to its association with a high risk of thrombosis generation and subsequent cerebral emboli, which can lead to fatal outcomes. Precise segmentation of the common carotid artery (CCA) is crucial for understanding its geometry, aiding in the assessment and management of carotid atherosclerosis.
 
 ## Dataset
-The dataset has been taken from [Mendeley.data](https://data.mendeley.com/datasets/d4xt63mgjm/1) published on November 2022 by Agata Momot. The dataset comprises ultrasound images of the common carotid artery. It includes images from 11 subjects, with each subject undergoing examinations on both left and right sides. The images total 1100, with each subject having 100 images. Additionally, the dataset contains expert masks created by a technician and validated by an expert.
+The dataset has been taken from Mendeley.data published on November 2022 by Agata Momot. The dataset comprises ultrasound images of the common carotid artery. It includes images from 11 subjects, with each subject undergoing examinations on both left and right sides. The images total 1100, with each subject having 100 images. Additionally, the dataset contains expert masks created by a technician and validated by an expert.
 
 ## Training Results
 
@@ -24,7 +24,8 @@ The best performance in common carotid artery segmentation was achieved using a 
 |Transformer - Patchers -  with patchification|   95.59  |     91.86       |         95.06           |
 
 ## Test Images
-<img src="image1.jpg" alt="Image 1" width="100" height="100"> <img src="image2.jpg" alt="Image 2" width="100" height="100"> <img src="image3.jpg" alt="Image 3" width="100" height="100">
+<img src="images/test1.png" alt="Image 1" width="800" height="200"> <img src="images/test2.png" alt="Image 2" width="800" height="200">
+
 
 
 
@@ -34,7 +35,7 @@ This repository provides resources for common carotid artery segmentation, inclu
 
 ## Note
 
-This project beats most scores acheived on the Common Carotid Artery Segmentation, and thus could be used as a benchmark metrics. And for inquiries, collaborations, or further information, please contact at samadnajm.sn@gmail.com or atbinmogharabin@gmail.com
+This project beats most scores acheived on the Common Carotid Artery Segmentation, and thus could be used as a benchmark metrics. And for inquiries, collaborations, or further information, please contact at samadnajm.sn@gmail.com or abtinmogharabin@gmail.com
 
 ## Acknowledgments
 
