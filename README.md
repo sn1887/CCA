@@ -35,7 +35,7 @@ This repository provides resources for common carotid artery segmentation, inclu
 
 ## Note
 
-This project beats most scores acheived on the Common Carotid Artery Segmentation, and thus could be used as a benchmark metrics. And for inquiries, collaborations, or further information, please contact at samadnajm.sn@gmail.com or abtinmogharabin@gmail.com
+This project beats most scores acheived on the Common Carotid Artery Segmentation, and thus could be used as a benchmark metrics. And for inquiries, collaborations, or further information, please contact at samadnajm.sn@gmail.com or atbinmogharabin@gmail.com
 
 ## Acknowledgments
 
