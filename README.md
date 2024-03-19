@@ -23,18 +23,24 @@ The best performance in common carotid artery segmentation was achieved using a 
 |Transformer - Patchers - without patchification |   0.9314  |  0.877          |       0.936 |
 |Transformer - Patchers -  with patchification|   95.59  |     91.86       |         95.06           |
 
+## Test Images
+<img src="image1.jpg" alt="Image 1" width="100" height="100"> <img src="image2.jpg" alt="Image 2" width="100" height="100"> <img src="image3.jpg" alt="Image 3" width="100" height="100">
+
+
 
 ## Usage
 
 This repository provides resources for common carotid artery segmentation, including code implementations, datasets, and model architectures. Researchers and practitioners in the field of medical imaging and cardiovascular health can leverage these resources to enhance their understanding of carotid atherosclerosis and develop more effective diagnostic and therapeutic strategies.
 
+## Note
+
+This project beats most scores acheived on the Common Carotid Artery Segmentation, and thus could be used as a benchmark metrics. And for inquiries, collaborations, or further information, please contact at samadnajm.sn@gmail.com or atbinmogharabin@gmail.com
+
 ## Acknowledgments
 
 We would like to express our gratitude to the contributors and researchers who have made this project possible. Their dedication and efforts have contributed to advancing the field of common carotid artery segmentation and cardiovascular health.
 
-## Note
 
-This project beats most scores acheived on the Common Carotid Artery Segmentation, and thus could be used as a benchmark metrics. And for inquiries, collaborations, or further information, please contact at samadnajm.sn@gmail.com or atbinmogharabin@gmail.com
 
 ## License
 
