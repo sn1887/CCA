@@ -21,7 +21,7 @@ The best performance in common carotid artery segmentation was achieved using a 
 | [IterNet](https://github.com/conscienceli/IterNet)|      0.8496       |    0.7461        |    0.8982           |
 | [MetaPolyp](https://github.com/huyquoctrinh/MetaPolyp-CBMS2023)|  0.9332            |    0.8753        |  0.9264              |
 |Transformer - Patchers - without patchification |   0.9314  |  0.877          |       0.936 |
-|Transformer - Patchers -  with patchification|   95.59  |     91.86       |         95.06           |
+|Transformer - Patchers -  with patchification|   0.9559  |     0.9186       |         0.9506           |
 
 ## Test Images
 <img src="images/test1.png" alt="Image 1" width="800" height="200"> <img src="images/test2.png" alt="Image 2" width="800" height="200">
