@@ -32,7 +32,6 @@ def dice_loss(input: Tensor, target: Tensor, multiclass: bool = False):
     return 1 - fn(input, target, reduce_batch_first=True)
 
 #-----------------------------------------------------------------------------------------------------------------------------------
-#PyTorch
 class DiceBCELoss(nn.Module):
     def __init__(self, weight=None, size_average=True):
         super(DiceBCELoss, self).__init__()
@@ -79,8 +78,6 @@ class IoUIndex(nn.Module):
     
 #-----------------------------------------------------------------------------------------------------------------------------------
     
-import torch
-
 def tversky_coef(y_true, y_pred, alpha=0.7, beta=0.3, smooth=1e-5):
     """
     Compute the Tversky coefficient between predicted and true binary masks.
