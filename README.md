@@ -37,14 +37,4 @@ This repository provides resources for common carotid artery segmentation, inclu
 
 This project beats most scores acheived on the Common Carotid Artery Segmentation, and thus could be used as a benchmark metrics. And for inquiries, collaborations, or further information, please contact at samadnajm.sn@gmail.com or atbinmogharabin@gmail.com
 
-## Acknowledgments
 
-We would like to express our gratitude to the contributors and researchers who have made this project possible. Their dedication and efforts have contributed to advancing the field of common carotid artery segmentation and cardiovascular health.
-
-
-
-## License
-
-This project is licensed under the MIT License.
-
----
